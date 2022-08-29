@@ -1,4 +1,9 @@
-// 생성자 함수
+/**
+ * Person 생성자 함수
+ * @param {string} name 이름 데이터
+ * @todo 프로퍼티 추가 및 인스턴스 초기화 구문 작성하기
+ * @see https://ko.javascript.info/constructor-new
+ */
 function Person(name) {
   this.name = name;
 }
